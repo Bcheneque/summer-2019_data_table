@@ -1,0 +1,31 @@
+  #container{
+            
+            display: grid;
+            border: 2px solid black;
+            grid-template-columns: 200px 200px 200px 200px 200px 200px;
+       
+        
+        }
+        
+    #container > div {
+        
+            font-size: 24px;
+         
+            
+        
+        }
+ol{
+    list-style: none;
+    padding: 0;
+    font-size:16px;
+}
+li{
+    margin-bottom: 10px;
+ 
+
+}
+
+#salary{
+    font-size: 13px;
+}
+    
